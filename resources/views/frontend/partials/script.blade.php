@@ -1,0 +1,13 @@
+<script src="{{asset('biz')}}/vendor/bootstrap/jquery-1.12.4.min.js"></script>
+	<script src="{{asset('biz')}}/vendor/bootstrap/popper.min.js"></script>
+	<script src="{{asset('biz')}}/vendor/bootstrap/bootstrap.min.js"></script>
+	<script src="{{asset('biz')}}/vendor/countdown/countdown.min.js"></script>
+	<script src="{{asset('biz')}}/vendor/niceselect/nice-select.min.js"></script>
+	<script src="{{asset('biz')}}/vendor/slickslider/slick.min.js"></script>
+	<script src="{{asset('biz')}}/vendor/venobox/venobox.min.js"></script>
+	<script src="{{asset('biz')}}/js/nice-select.js"></script>
+	<script src="{{asset('biz')}}/js/countdown.js"></script>
+	<script src="{{asset('biz')}}/js/accordion.js"></script>
+	<script src="{{asset('biz')}}/js/venobox.js"></script>
+	<script src="{{asset('biz')}}/js/slick.js"></script>
+	<script src="{{asset('biz')}}/js/main.js"></script>
