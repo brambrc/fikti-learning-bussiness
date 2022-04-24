@@ -23,7 +23,7 @@
 ## Template
 Berikut merupakan template asli yang digunakan untuk bagian frontend dan admin sebegai refrensi apabila ingin menggunakan kompenen lainnya pada template tersebut:
 - admin `https://technext.github.io/AdminX/`
-- frontend `http://preview.themeforest.net/item/aubna-coronavirus-medical-prevention-html-template/full_screen_preview/26277305?_ga=2.149144818.572515882.1647320039-1824394027.1647320039`
+- frontend `https://mironmahmud.com/greeny/assets/ltr/wishlist.html`
 
 ## Dokumentasi
 Kalian bisa pelajari dokumentasi laravel 6 lebih lanjut di url ini : `https://laravel.com/docs/6.x`
